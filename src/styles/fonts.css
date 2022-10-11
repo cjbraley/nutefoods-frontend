@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'MyriadPro';
+    src: url("../assets/fonts/MyriadPro-Regular.otf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: NHaasGrotesk;
+    src: url("../assets/fonts/NHaasGroteskDSPro-45Lt.ttf");
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: NHaasGrotesk;
+    src: url("../assets/fonts/NHaasGroteskDSPro-65Md.ttf");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: NHaasGrotesk;
+    src: url("../assets/fonts/NHaasGroteskDSPro-55Rg.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nib';
+    src: url("../assets/fonts/NibPro-Regular.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nib';
+    src: url("../assets/fonts/NibPro-Italic.ttf");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Nib';
+    src: url("../assets/fonts/NibPro-SemiBold.ttf");
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nib';
+    src: url("../assets/fonts/NibPro-SemiBoldItalic.ttf");
+    font-weight: 600;
+    font-style: italic;
+}
