@@ -10,8 +10,6 @@ import Menu from "../menu/Menu";
 import Overlay from "./Overlay";
 import SideCart from "./SideCart";
 
-import "../../styles/fonts.css";
-
 const Layout = ({
     children,
     showFooter = true,

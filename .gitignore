@@ -54,6 +54,10 @@ typings/
 # dotenv environment variable files
 .env*
 
+#prettier
+.prettier*
+
+
 # gatsby files
 .cache/
 public
@@ -68,6 +72,3 @@ yarn-error.log
 # Yarn Integrity file
 .yarn-integrity
 
-#prettier
-.prettierignore
-.prettierrc

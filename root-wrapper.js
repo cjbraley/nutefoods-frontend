@@ -6,6 +6,7 @@ import GlobalStyle from "./src/styles/index";
 import { Provider } from "react-redux";
 import store from "./src/state/store";
 
+import Root from "./src/components/ui/Root";
 
 // Wraps every page in a component
 export const wrapRootElement = ({ element }) => {
@@ -13,7 +14,7 @@ export const wrapRootElement = ({ element }) => {
         <Provider store={store}>
             <ThemeProvider theme={theme}>
                 <GlobalStyle />
-                {element}
+                <Root>{element}</Root>
             </ThemeProvider>
         </Provider>
     );
